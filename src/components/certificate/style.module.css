@@ -1,0 +1,41 @@
+.certificates {
+    margin: 43px 0;
+}
+
+.certificate_head {
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+.certificate_head p {
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 66.56px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.certificate_head span {
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 42.36px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #87878794;
+}
+
+.certificate_col {
+    border: 5px solid #878787;
+    text-align: center;
+    padding: 121px 23px;
+    height: 100%;
+}
+
+.certificate_col p {
+    margin-top: 10px;
+    font-size: 51px;
+    font-weight: 700;
+    line-height: 95.13px;
+    color: #878787;
+}

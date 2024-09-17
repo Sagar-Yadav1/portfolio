@@ -1,0 +1,47 @@
+.services {
+    margin: 43px 0;
+}
+
+.service_head {
+    text-align: center;
+}
+
+.service_head p {
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 66.56px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.service_head span {
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 42.36px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #87878794;
+}
+
+.service_col {
+    margin-top: 55px;
+    padding: 25px;
+    gap: 10px;
+    border-radius: 9px;
+    background-color: #1E1E1E;
+    text-align: center;
+}
+
+.service_col span {
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 32.68px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.services .service_btn {
+    margin-top: 59px;
+    text-align: center;
+}

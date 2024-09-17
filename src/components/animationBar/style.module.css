@@ -1,0 +1,19 @@
+.animation_bar {
+  background-color: #000;
+  margin: 30px 0;
+}
+
+.animation {
+  margin: 20px 0;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.animation span {
+  font-size: 29px;
+  font-weight: 500;
+  line-height: 35.1px;
+  text-align: left;
+  color: #fff;
+}

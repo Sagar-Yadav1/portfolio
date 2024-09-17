@@ -1,0 +1,61 @@
+.button {
+    color: #fff;
+    text-transform: capitalize;
+    text-decoration: none;
+    box-sizing: border-box;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.fill {
+    color: #000;
+    background-color: #6D6D6D;
+    padding: 9px 20px 9px 20px;
+    gap: 10px;
+    border-radius: 9px;
+}
+
+.fill:hover {
+    background-color: #1E1E1E;
+}
+
+.outline {
+    padding: 15px 61px 15px 61px;
+    gap: 10px;
+    border-radius: 71px;
+    color: #6D6D6D;
+    border: 5px solid #878787;
+}
+
+.outline:hover {
+    color: #1E1E1E;
+    background-color: #878787;
+}
+
+.small {
+    width: 80px;
+    padding: 10px 24px 10px 24px;
+    gap: 8px;
+    border-radius: 43px;
+    opacity: 0px;
+}
+
+.medium {
+    width: Hug (145px) px;
+    height: Hug (45px) px;
+    padding: 14px 32px 14px 32px;
+    gap: 12px;
+    border-radius: 43px;
+    opacity: 0px;
+}
+
+.large {
+    width: Hug (152px) px;
+    height: Hug (51px) px;
+    padding: 16px 40px 16px 40px;
+    gap: 16px;
+    color: #fff;
+    border-radius: 43px;
+    opacity: 0px;
+}
